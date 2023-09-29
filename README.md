@@ -65,7 +65,7 @@ Before you begin, ensure you have met the following requirements:
 - To view a blog post, click on its title on the homepage.
 - To delete a blog post, click the "Delete" button next to the post on the homepage.
 
-# Usage
+# Contribution
 1. Fork the repository to your own GitHub account.
 2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
 3. Make your changes and commit them: `git commit -m 'Add some feature'`.
